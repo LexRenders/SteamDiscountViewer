@@ -1,0 +1,30 @@
+---
+import Layout from '../layouts/Layout.astro';
+import SearchInput from '../components/SearchInput.astro';
+import GameList from '../components/GameList.astro';
+import DiscountRangeSlider from '../components/DiscountRangeSlider.astro';
+---
+
+<Layout title="Welcome to Astro.">
+	<main>
+		<div class="container mx-auto">
+			<div>
+				<h1 class="text-3xl my-4">Game discount checker</h1>
+			</div>
+		<div class="grid grid-cols-2 gap-4">
+			<div>
+				<SearchInput></SearchInput>
+			</div>
+			<div>
+				<DiscountRangeSlider></DiscountRangeSlider>
+			</div>
+		</div>
+		<GameList></GameList>
+		</div>
+
+		<script src="../scripts/index.ts"></script>
+	</main>
+</Layout>
+
+<style>
+</style>

@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Steam Deck",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "F1® 25",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "ELDEN RING NIGHTREIGN",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Dune: Awakening",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Counter-Strike 2",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Clair Obscur: Expedition 33",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "The Elder Scrolls IV: Oblivion Remastered",
+    "isDiscounted": true,
+    "discountPercentage": 20
+  },
+  {
+    "title": "The Last of Us™ Part I",
+    "isDiscounted": true,
+    "discountPercentage": 50
+  },
+  {
+    "title": "FANTASY LIFE i: The Girl Who Steals Time",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Tainted Grail: The Fall of Avalon",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "THRONE AND LIBERTY",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Call of Duty®",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "isDiscounted": true,
+    "discountPercentage": 75
+  },
+  {
+    "title": "Call of Duty®: Black Ops 6 - BlackCell (Season 04)",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Call of Duty®: Black Ops 6",
+    "isDiscounted": true,
+    "discountPercentage": 45
+  },
+  {
+    "title": "War Thunder",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "RoadCraft",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Apex Legends™",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Car Dealer Simulator",
+    "isDiscounted": true,
+    "discountPercentage": 10
+  },
+  {
+    "title": "Schedule I",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
+    "isDiscounted": true,
+    "discountPercentage": 50
+  },
+  {
+    "title": "Warframe",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "The Elder Scrolls® Online",
+    "isDiscounted": true,
+    "discountPercentage": 75
+  },
+  {
+    "title": "Marvel Rivals",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "REMATCH",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Dead by Daylight",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Call of Duty®: Warzone™",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Tom Clancy’s The Division® 2",
+    "isDiscounted": true,
+    "discountPercentage": 90
+  },
+  {
+    "title": "Drive Beyond Horizons",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Rust",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "HELLDIVERS™ 2",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "R.E.P.O.",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Path of Exile 2",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "DOOM: The Dark Ages",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "RuneScape: Dragonwilds",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "ARK: Survival Ascended",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Once Human",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Forza Horizon 5",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Football Manager 2024",
+    "isDiscounted": true,
+    "discountPercentage": 75
+  },
+  {
+    "title": "Call of Duty®: Black Ops III",
+    "isDiscounted": true,
+    "discountPercentage": 67
+  },
+  {
+    "title": "Tom Clancy's Rainbow Six® Siege",
+    "isDiscounted": true,
+    "discountPercentage": 60
+  },
+  {
+    "title": "Fallout 76",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "The Elder Scrolls V: Skyrim Special Edition",
+    "isDiscounted": true,
+    "discountPercentage": 75
+  },
+  {
+    "title": "Dying Light 2 Stay Human: Reloaded Edition",
+    "isDiscounted": true,
+    "discountPercentage": 67
+  },
+  {
+    "title": "Farming Simulator 25",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Warhammer 40,000: Space Marine 2",
+    "isDiscounted": true,
+    "discountPercentage": 40
+  },
+  {
+    "title": "MotoGP™25",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Stellar Blade™",
+    "isDiscounted": false,
+    "discountPercentage": null
+  },
+  {
+    "title": "Plague Inc: Evolved",
+    "isDiscounted": true,
+    "discountPercentage": 75
+  },
+  {
+    "title": "9 Kings",
+    "isDiscounted": true,
+    "discountPercentage": 35
+  }
+]
